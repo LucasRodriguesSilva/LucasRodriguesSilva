@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/LucasRodriguesSilva"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasRodriguesSilva&show_icons=true&theme=tokyonight&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRodriguesSilva&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRodriguesSilva&layout=compact&theme=tokyonight">
 </div>
 
 <div style="display: inline-block"><br>
@@ -19,6 +19,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/lucas-rodrigues-da-silva-342274163" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
